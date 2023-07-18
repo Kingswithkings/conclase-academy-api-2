@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "conclase academy api 2", "conclase academy api 2\conclase academy api 2.csproj", "{0F027232-EC30-4BB7-9BE7-19228281309C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F027232-EC30-4BB7-9BE7-19228281309C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F027232-EC30-4BB7-9BE7-19228281309C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F027232-EC30-4BB7-9BE7-19228281309C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F027232-EC30-4BB7-9BE7-19228281309C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC72158-FB33-48C0-98CC-C3657EB8FA2E}
+	EndGlobalSection
+EndGlobal
